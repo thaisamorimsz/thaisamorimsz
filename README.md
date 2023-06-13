@@ -25,7 +25,7 @@ My passion for software development drives me to keep up to date with the latest
 
 Which solution comes after microservices? I'm curious to understand the technologies of the future and their predictions of impact. Such as the application of 6G and its impact on the IOT market. <body>
 
-- 🌱 I’m currently learning **Go (Golang), Flutter + Dart, SpringBoot + Kotlin, Machine Learning Algorithms, Generative AI's, Neural Networks React + TypeScript, Machine**
+- 🌱 I’m currently learning **Go (Golang), Flutter + Dart, SpringBoot + Kotlin, Machine Learning Algorithms, Generative AI's, Neural Networks React + TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thaisamorimsz?tab=repositories](https://github.com/thaisamorimsz?tab=repositories)
 
