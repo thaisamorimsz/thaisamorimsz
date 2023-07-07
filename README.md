@@ -23,7 +23,7 @@ I became a Software Engineer because I love to solve problems and logic can be a
 
 My passion for software development drives me to keep up to date with the latest technologies and industry trends. I enjoy working on projects that involve high data scalability, ensuring that the software can handle large amounts of data effectively. Also, I have great interest in front-end development and mobile application development.
 
-I'm looking forward to using ML algorithms to implement smart solutions.In my sincere opinion as a computer scientist, I believe that teaching critical thinking since basic education will be the key for people to be able to create good scripts and thus be able to use and extract the most from technologies based on AI and NLP.
+I'm looking forward to using ML algorithms to implement smart solutions. In my sincere opinion as a computer scientist, I believe that teaching critical thinking since basic education will be the key for people to be able to create good scripts and thus be able to use and extract the most from technologies based on AI and NLP.
 
 Which solution comes after microservices? I'm curious to understand the technologies of the future and their predictions of impact. Such as the application of 6G and its impact on the IOT market. <body>
 
