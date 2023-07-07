@@ -23,15 +23,17 @@ I became a Software Engineer because I love to solve problems and logic can be a
 
 My passion for software development drives me to keep up to date with the latest technologies and industry trends. I enjoy working on projects that involve high data scalability, ensuring that the software can handle large amounts of data effectively. Also, I have great interest in front-end development and mobile application development.
 
+I'm looking forward to using ML algorithms to implement smart solutions.In my sincere opinion as a computer scientist, I believe that teaching critical thinking since basic education will be the key for people to be able to create good scripts and thus be able to use and extract the most from technologies based on AI and NLP.
+
 Which solution comes after microservices? I'm curious to understand the technologies of the future and their predictions of impact. Such as the application of 6G and its impact on the IOT market. <body>
 
-- 🌱 I’m currently learning **Go (Golang), Flutter + Dart, SpringBoot + Kotlin, Machine Learning Algorithms, Generative AI's, Neural Networks, React + TypeScript**
+- 🌱 I’m currently learning **Go (Golang), Flutter + Dart, SpringBoot + Kotlin/ Java, Machine Learning Algorithms, Generative AI's, Neural Networks, React + TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thaisamorimsz?tab=repositories](https://github.com/thaisamorimsz?tab=repositories)
 
-- 📝 I currently study **Computer Science** at [UFABC](https://www.ufabc.edu.br/) 🏢
+- 📝 I currently study **Computer Science** at [UFABC](https://www.ufabc.edu.br/) 🏢. However, I already have a bachelor's degree in **Science and Technology** from the same institution.
 
-- 🔭 My areas of interest are **Artificial Intelligence and Machine Learning, Big Data and Data Engineering, DevOps, Human Computer Interaction, Internet of Things (IoT), Mobile Development, Software Architecture and Software Project Management**
+- 🔭 I am an enthusiast in the area of **​​Software Engineering, AI as Software Engineering, Information Engineering, Artificial Intelligence and Machine Learning, Big Data and Data Engineering, DevOps, Human Computer Interaction, Internet of Things (IoT), Mobile Development, Software Architecture and Software Project Management** 
 
 - 📫 How to reach me **thais_amorimsouza@hotmail.com**
 
