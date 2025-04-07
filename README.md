@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 I became a Software Engineer because I love to solve problems and logic can be applied in the most different contexts. I have 4+ years of experience, working with companies like Accenture, Mercado Livre and Intuit. My foundation is in backend development, but I enjoy working across the stack, always keeping usability and scalability in mind. I thrive in agile environments, collaborating with designers, product managers, and engineers to create meaningful experiences. Ownership and accountability are core values for me — I like to see things through from idea to production.
 
-I'm looking forward to using ML algorithms to implement smart solutions. In my sincere opinion as a computer scientist, I believe that teaching critical thinking since basic education will be the key for people to be able to create good scripts and thus be able to use and extract the most from technologies based on AI and NLP.
-
 I'm also really curious about the future of tech—what's coming after microservices? How will 6G impact IoT? And how can we make software more intuitive and human-centered? If you're into these topics, let’s chat! <body>
 
 - 🌱 I’m currently learning **SpringBoot + Kotlin/Java, React + JavaScript/TypeScript, Generative AI, DevOps, and Human-Computer Interaction (HCI)**
